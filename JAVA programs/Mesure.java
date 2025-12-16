@@ -1,3 +1,5 @@
+//didn't got any errors
+
 abstract class formula{
     abstract double speed();
     abstract double velocity();
@@ -47,4 +49,5 @@ public class Mesure{
         System.out.println("Bike Speed: " + bike.speed() + " kmph");
         System.out.println("Bike Velocity: " + bike.velocity() + " kmph");
     }
+
 }
