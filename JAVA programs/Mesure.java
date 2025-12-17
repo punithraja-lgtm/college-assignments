@@ -1,4 +1,4 @@
-//didn't got any errors
+//No errors
 
 abstract class formula{
     abstract double speed();
@@ -51,3 +51,4 @@ public class Mesure{
     }
 
 }
+
